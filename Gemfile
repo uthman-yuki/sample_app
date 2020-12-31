@@ -15,6 +15,7 @@ group :development, :test do
 end
 
 group :development do
+  gem 'browser_sync_rails'
   gem 'web-console',           '4.1.0'
   gem 'listen',                '3.2.1'
   gem 'spring',                '2.1.1'
